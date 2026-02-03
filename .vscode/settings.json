@@ -1,0 +1,5 @@
+{
+    "editor.suggest.selectionMode": "never",
+    "editor.acceptSuggestionOnEnter": "on",
+    "python-envs.pythonProjects": []
+}
